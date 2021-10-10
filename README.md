@@ -2,11 +2,11 @@
 
 ## Atualize os seus dados:
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
-- Link para o seu GitHub:
+- Nome: Franciane Cristina de Morais
+- Matrícula: 16.2.8533
+- Curso: Sistmas de Informação
+- Semestre/Ano correntes: 7º período
+- Link para o seu GitHub:https://github.com/UFOP-CSI477/2021-01-remoto-atividades-FrancianeMorais
 
 ## [Projeto final:](./Projeto/README.md) 
 
